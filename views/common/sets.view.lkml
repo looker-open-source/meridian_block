@@ -1,0 +1,3 @@
+view: sets {
+  extension: required
+}
